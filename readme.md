@@ -1,0 +1,2 @@
+This is a arduino code that uses buttons and a led matirx to create geacache based on the game Keep Talking and Nobody Explodes.
+It also uses som LEDs to indicate when the player compleates the levels and a solenoid to release the cache log.
