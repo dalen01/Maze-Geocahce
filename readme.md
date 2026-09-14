@@ -4,11 +4,9 @@ This is an Arduino code that uses buttons and a LED matrix to create a geocache 
 It also uses LEDs to indicate when the player completes the levels and a solenoid to release the cache log.
 
 # Equipment list:
-* Arduino Nano (Or similar device)
-* 4 Arcade buttons
-* 8x8 Led Matrix
-* 3 Green LEDs 
-* 10 Red LEDs (5 and 5 connected together, possible to only use 2)
-* 5v Lock solenoid(or other unclocking mechanism)
+* Arduino Nano (Or similar device/same footprint)
+* PCB (with components)
+* 3xAA battery pack
+* solenoid based lock
+* Arcade joystick
 * Wires
-* Pizoelectric buzzer
