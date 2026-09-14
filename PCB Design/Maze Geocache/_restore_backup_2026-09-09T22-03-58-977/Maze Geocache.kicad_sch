@@ -1,0 +1,88 @@
+(kicad_sch
+	(version 20230121)
+	(generator eeschema)
+	(uuid 040b5f1f-2a15-47ab-8ad0-dce75349ecac)
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 66.04)
+		(size 58.42 31.75)
+		(fields_autoplaced)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 5f5a3bdb-34f6-4ac2-8173-c1e1dd51b853)
+		(property "Sheetname" "Led Matrix"
+			(at 22.86 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "led_matrix.kicad_sch"
+			(at 22.86 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Maze Geocache"
+				(path "/040b5f1f-2a15-47ab-8ad0-dce75349ecac"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 21.59)
+		(size 58.42 36.83)
+		(fields_autoplaced)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 7001a67d-297e-46d5-84ac-d577c3bbe8be)
+		(property "Sheetname" "Controller page"
+			(at 22.86 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 22.86 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Maze Geocache"
+				(path "/040b5f1f-2a15-47ab-8ad0-dce75349ecac"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
